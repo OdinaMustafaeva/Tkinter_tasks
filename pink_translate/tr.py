@@ -8,6 +8,7 @@ wn.geometry("400x400")
 wn.configure(background='pink')
 wn.title("Pink translate")
 
+
 # PINK Translate text
 label_pink = Label(wn, text="Pink Translate", fg='black', bg='pink', font=('Helvetica bold', 20))
 label_pink.pack(pady=30, padx=110)
